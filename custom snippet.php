@@ -1,3 +1,5 @@
+<?php 
+
 function wpf_dev_require_ten_digit_number_any_form( $fields, $entry, $form_data ) {
     
     // Loop through all fields in the form
